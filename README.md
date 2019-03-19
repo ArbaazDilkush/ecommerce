@@ -1,2 +1,8 @@
-# ecommerce
-E-commerce front end web design using bootstrap,html,css.
+# E-Commerce:
+
+This is my first front end web design using bootstrap,html,css.
+
+This is the online based ecommerce.
+
+
+
